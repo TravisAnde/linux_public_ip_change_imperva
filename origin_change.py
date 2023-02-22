@@ -18,8 +18,8 @@ url = 'https://my.imperva.com/api/prov/v1/sites/configure?site_id={}&param=site_
  
 # Set proper headers
 headers = {
-    "x-API-Id": api_id,
-    "x-API-Key": api_key,
+    "x-API-Id": <api_id>,
+    "x-API-Key": <api_key>,
     "Content-Type":"application/json",
     "Accept":"application/json"
 }
